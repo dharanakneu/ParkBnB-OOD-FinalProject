@@ -7,11 +7,11 @@ Parkbnb is a comprehensive parking management system designed to simplify parkin
 https://northeastern-my.sharepoint.com/:v:/r/personal/patel_vanshi_northeastern_edu/Documents/OOD_FINAL_PROJECT_GROUP2.MOV?csf=1&web=1&e=durQvo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ## Contributors 👩🏻‍💻
-- Keya Goswami    `Project Manager`
-- Shreya Wanisha  `Tech Lead`
-- Dharana Kashyap `Developer`
-- Vanshi Patel    `Developer`
-- Shriya Pratapwar `Designer`
+- Dharana Kashyap   [kashyap.dh@northeastern.edu]
+- Keya Goswami      [goswami.ke@northeastern.edu]  
+- Shreya Wanisha    [wanisha.s@northeastern.edu]  
+- Shriya Pratapwar  [pratapwar.s@northeastern.edu]
+- Vanshi Patel      [patel.vanshi@northeastern.edu]   
 
 ## Tech Stack
 ***Front End***
@@ -64,14 +64,14 @@ https://northeastern-my.sharepoint.com/:v:/r/personal/patel_vanshi_northeastern_
 
 ## Project Contributions
 ***Frontend***
-- Dharana Kashyap: Parking location pages, Google Maps integration, reviews, and dynamic forms for managing spots.
-- Vanshi Patel: Profile sections, landing page, and reusable components.
+- Dharana Kashyap: Parking Location Detail pages, Google Maps integration, Reviews, and Dynamic forms for managing spots.
+- Vanshi Patel: Profile sections, landing page
 - Shriya Pratapwar: Sign-in/sign-up, session handling, and password reset.
 - Shreya Wanisha: Payment interface, card management, and receipts.
 - Keya Goswami: Geolocation-based search and renter dashboard.
 
 ***Backend***
-- Dharana Kashyap: Database setup, renter/rentee APIs, and image upload functionality.
+- Dharana Kashyap: Base Repo setup, Database setup, Renter/Rentee APIs, and Image upload functionality, Reviews, Navigation, Reservation
 - Vanshi Patel: Bank details and refund management.
 - Shriya Pratapwar: Login, session handling, and reservations.
 - Shreya Wanisha: Stripe integration for payments.
@@ -137,36 +137,12 @@ https://northeastern-my.sharepoint.com/:v:/r/personal/patel_vanshi_northeastern_
   - Generic Decline: 4000 0000 0000 0002 
   - Insufficient Funds: 4000 0000 0000 9995
 
-**For any queries you can connect any of us 📧**
+**For any queries you can connect with any of us 📧**
 
 
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/6xRviSdT)
-# Welcome to the course CSYE6200- Concepts of Object Oriented Design
+# Course CSYE6200- Concepts of Object Oriented Design
 > Northeastern University, College of Engineering
-
-
 ## Professor: Daniel Peters
 
-### Requirements
-1. Eclipse or VS Code or IntelliJ.
 
-Note: If you are using Eclipse, please have git CLI installed on your system or GitHub Desktop to commit the code in this repository
-
-### SetUp Instructions
-1. Please clone the repository on your local system
-2. For Eclipse Import the project as Existing Maven Project, For IntelliJ you can directlty open it using 'Get from VCS'.
-4. All code should be pushed to the main branch
-3. Ensure the GitHub actions are successful post push
-
-Submissions will have deadlines, failed GitHub Actions would result in point deductions.
-
-### References
-1. Cloning a Repository: <https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository>
-2. Any GitHub Setup: Please refer to the Git & GitHub Fundamentals Repository shared to you by your respective TA and refer the README.md section
-
-Please reach out to your respective TA if you need any help in regards with submission/ GitHub
-
-Author:
-- Rohan Vasudev Ginde (ginde.r@northeastern.edu)
-- Yesha Joshi (joshi.ye@northeastern.edu)
 
