@@ -140,7 +140,7 @@ https://northeastern-my.sharepoint.com/:v:/r/personal/patel_vanshi_northeastern_
 **For any queries you can connect with any of us 📧**
 
 
-# Course CSYE6200- Concepts of Object Oriented Design
+## Course CSYE6200- Concepts of Object Oriented Design
 > Northeastern University, College of Engineering
 ## Professor: Daniel Peters
 
